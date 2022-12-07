@@ -1,0 +1,12 @@
+pandas
+# https://github.com/mwouts/itables
+itables
+jupyterlab~=3.4
+notebook
+
+# ipykernel is required for the VSCode interactive window
+# ipykernel~=6.13
+# ipywidgets is required for rich to run in Jupyter Notebook or the VSCode
+# interactive window.
+# ipywidgets~=7.7
+# scikit-learn~=1.0
